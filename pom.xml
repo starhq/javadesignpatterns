@@ -11,6 +11,7 @@
         <module>adapter</module>
         <module>aggregatormicroservices</module>
         <module>apigateway</module>
+        <module>asyncmethodinvocation</module>
     </modules>
     <packaging>pom</packaging>
 
