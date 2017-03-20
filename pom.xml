@@ -12,6 +12,7 @@
         <module>aggregatormicroservices</module>
         <module>apigateway</module>
         <module>asyncmethodinvocation</module>
+        <module>bridge</module>
     </modules>
     <packaging>pom</packaging>
 
