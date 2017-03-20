@@ -13,6 +13,7 @@
         <module>apigateway</module>
         <module>asyncmethodinvocation</module>
         <module>bridge</module>
+        <module>builder</module>
     </modules>
     <packaging>pom</packaging>
 
