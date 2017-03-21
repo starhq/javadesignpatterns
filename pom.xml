@@ -15,6 +15,7 @@
         <module>bridge</module>
         <module>builder</module>
         <module>businessdelegate</module>
+        <module>caching</module>
     </modules>
     <packaging>pom</packaging>
 
