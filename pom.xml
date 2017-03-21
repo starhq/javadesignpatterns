@@ -14,6 +14,7 @@
         <module>asyncmethodinvocation</module>
         <module>bridge</module>
         <module>builder</module>
+        <module>businessdelegate</module>
     </modules>
     <packaging>pom</packaging>
 
