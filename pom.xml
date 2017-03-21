@@ -17,6 +17,7 @@
         <module>businessdelegate</module>
         <module>caching</module>
         <module>callback</module>
+        <module>chain</module>
     </modules>
     <packaging>pom</packaging>
 
