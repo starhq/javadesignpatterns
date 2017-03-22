@@ -18,6 +18,7 @@
         <module>caching</module>
         <module>callback</module>
         <module>chain</module>
+        <module>command</module>
     </modules>
     <packaging>pom</packaging>
 
