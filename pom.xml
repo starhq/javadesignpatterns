@@ -22,6 +22,7 @@
         <module>composite</module>
         <module>dao</module>
         <module>datamapper</module>
+        <module>decorator</module>
     </modules>
     <packaging>pom</packaging>
 
