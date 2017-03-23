@@ -21,6 +21,7 @@
         <module>command</module>
         <module>composite</module>
         <module>dao</module>
+        <module>datamapper</module>
     </modules>
     <packaging>pom</packaging>
 
