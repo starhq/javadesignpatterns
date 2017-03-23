@@ -23,6 +23,7 @@
         <module>dao</module>
         <module>datamapper</module>
         <module>decorator</module>
+        <module>delegation</module>
     </modules>
     <packaging>pom</packaging>
 
