@@ -26,6 +26,7 @@
         <module>delegation</module>
         <module>dependencyinjection</module>
         <module>doublecheckedlocking</module>
+        <module>doubledispatch</module>
     </modules>
     <packaging>pom</packaging>
 
