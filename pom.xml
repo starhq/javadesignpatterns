@@ -25,6 +25,7 @@
         <module>decorator</module>
         <module>delegation</module>
         <module>dependencyinjection</module>
+        <module>doublecheckedlocking</module>
     </modules>
     <packaging>pom</packaging>
 
