@@ -24,6 +24,7 @@
         <module>datamapper</module>
         <module>decorator</module>
         <module>delegation</module>
+        <module>dependencyinjection</module>
     </modules>
     <packaging>pom</packaging>
 
