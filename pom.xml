@@ -27,6 +27,7 @@
         <module>dependencyinjection</module>
         <module>doublecheckedlocking</module>
         <module>doubledispatch</module>
+        <module>eventaggregator</module>
     </modules>
     <packaging>pom</packaging>
 
