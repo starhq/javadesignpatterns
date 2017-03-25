@@ -33,6 +33,7 @@
         <module>executearound</module>
         <module>facade</module>
         <module>factorykit</module>
+        <module>factorymethod</module>
     </modules>
     <packaging>pom</packaging>
 
