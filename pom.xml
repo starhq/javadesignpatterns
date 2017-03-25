@@ -29,6 +29,7 @@
         <module>doubledispatch</module>
         <module>eventaggregator</module>
         <module>eventasynchronous</module>
+        <module>eventdrivenarchitecture</module>
     </modules>
     <packaging>pom</packaging>
 
