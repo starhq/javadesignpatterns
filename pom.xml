@@ -30,6 +30,7 @@
         <module>eventaggregator</module>
         <module>eventasynchronous</module>
         <module>eventdrivenarchitecture</module>
+        <module>executearound</module>
     </modules>
     <packaging>pom</packaging>
 
