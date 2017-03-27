@@ -28,6 +28,7 @@
         <module>doublecheckedlocking</module>
         <module>doubledispatch</module>
         <module>eventaggregator</module>
+        <module>eventasynchronous</module>
     </modules>
     <packaging>pom</packaging>
 
