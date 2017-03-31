@@ -34,6 +34,7 @@
         <module>facade</module>
         <module>factorykit</module>
         <module>factorymethod</module>
+        <module>featuretoggle</module>
     </modules>
     <packaging>pom</packaging>
 
