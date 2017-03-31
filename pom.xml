@@ -35,6 +35,7 @@
         <module>factorykit</module>
         <module>factorymethod</module>
         <module>featuretoggle</module>
+        <module>fluentinterface</module>
     </modules>
     <packaging>pom</packaging>
 
