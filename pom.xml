@@ -38,6 +38,7 @@
         <module>fluentinterface</module>
         <module>flux</module>
         <module>singleton</module>
+        <module>prototype</module>
     </modules>
     <packaging>pom</packaging>
 
