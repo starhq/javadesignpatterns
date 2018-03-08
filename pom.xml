@@ -40,6 +40,7 @@
         <module>singleton</module>
         <module>prototype</module>
         <module>flyweight</module>
+        <module>interpreter</module>
     </modules>
     <packaging>pom</packaging>
 
