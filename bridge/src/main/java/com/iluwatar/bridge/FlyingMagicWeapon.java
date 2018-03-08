@@ -9,6 +9,7 @@ public class FlyingMagicWeapon extends MagicWeapon {
         super(imp);
     }
 
+    @Override
     public FlyingMagicWeaponImpl getImp() {
         return (FlyingMagicWeaponImpl) imp;
     }
