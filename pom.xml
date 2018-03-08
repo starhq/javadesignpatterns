@@ -41,6 +41,7 @@
         <module>prototype</module>
         <module>flyweight</module>
         <module>interpreter</module>
+        <module>state</module>
     </modules>
     <packaging>pom</packaging>
 
