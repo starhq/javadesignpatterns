@@ -45,6 +45,7 @@
         <module>strategy</module>
         <module>template-method</module>
         <module>memento</module>
+        <module>observer</module>
     </modules>
     <packaging>pom</packaging>
 
