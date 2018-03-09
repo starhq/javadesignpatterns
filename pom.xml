@@ -46,6 +46,7 @@
         <module>template-method</module>
         <module>memento</module>
         <module>observer</module>
+        <module>mediator</module>
     </modules>
     <packaging>pom</packaging>
 
